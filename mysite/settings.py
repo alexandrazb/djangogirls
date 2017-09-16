@@ -25,7 +25,7 @@ SECRET_KEY = 'rsu@+-isi1n#vgc6h@mjspw%c-0#!myh9njg@%2cvhr2o+twba'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['alexandrazb.pythonanywhere.com']
 
 
 # Application definition
